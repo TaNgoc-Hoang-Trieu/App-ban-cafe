@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "254859578262",
+    "firebase_url": "https://project195-76386-default-rtdb.firebaseio.com",
+    "project_id": "project195-76386",
+    "storage_bucket": "project195-76386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254859578262:android:5483b0f48f63581918ebb7",
+        "android_client_info": {
+          "package_name": "com.example.appcafe_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx28ajlCCs_PartLrDOMmy8THRNrve0OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
